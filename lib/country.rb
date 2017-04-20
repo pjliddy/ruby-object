@@ -5,6 +5,7 @@ class Country
   def initialize(name)
     @name = name
     @language
+    @test = 12
   end
 
   def name
